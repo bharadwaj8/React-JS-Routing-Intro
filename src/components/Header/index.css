@@ -1,0 +1,30 @@
+.navbar {
+  height: 25%;
+  display: flex;
+  justify-content: space-between;
+}
+.navbar-home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  width: 25px;
+  height: 25px;
+}
+.logo-name {
+  font-weight: bold;
+  color: #12022f;
+  font-size: 20px;
+}
+.list {
+  display: flex;
+  align-items: center;
+}
+li {
+  list-style: none;
+  margin-right: 20px;
+  color: #12022f;
+  font-size: 20px;
+  font-weight: bold;
+}
